@@ -1,2 +1,1 @@
-# Algorithme_Seconde_TEST
-test of a random algorithm
+Algorithm to use in a majoritary judgment election. Work in progress :)
